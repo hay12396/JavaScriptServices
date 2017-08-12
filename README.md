@@ -1,3 +1,9 @@
+# How to run
+1. Download the sample project from /templates.
+2. use `dotnet restore`.
+3. use `npm install`.
+4. use `dotnet run`.
+
 # JavaScriptServices
 
 AppVeyor: [![AppVeyor](https://ci.appveyor.com/api/projects/status/gprilrckx116vc9m/branch/dev?svg=true)](https://ci.appveyor.com/project/aspnetci/javascriptservices/branch/dev)
